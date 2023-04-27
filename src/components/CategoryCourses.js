@@ -7,7 +7,7 @@ function CategoryCourses(){
         <div className = "row mb-5">
             <div className = "col-md-3 mb-4">
                 <div className="card">
-                    <a href = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></a>
+                    <Link to = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></Link>
                     <div className="card-body">
                         <Link to = "/"> <h5 className="card-title">Getting started with React JS</h5> </Link>
                     </div>
@@ -15,7 +15,7 @@ function CategoryCourses(){
             </div>
             <div className = "col-md-3 mb-4">
                 <div className="card">
-                    <a href = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></a>
+                    <Link to = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></Link>
                     <div className="card-body">
                         <Link to = "/"> <h5 className="card-title">Getting started with React JS</h5> </Link>
                     </div>
@@ -23,7 +23,7 @@ function CategoryCourses(){
             </div>
             <div className = "col-md-3 mb-4">
                 <div className="card">
-                    <a href = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></a>
+                    <Link to = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></Link>
                     <div className="card-body">
                         <Link to = "/"> <h5 className="card-title">Getting started with React JS</h5> </Link>
                     </div>
@@ -31,7 +31,7 @@ function CategoryCourses(){
             </div>
             <div className = "col-md-3 mb-4">
                 <div className="card">
-                    <a href = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></a>
+                    <Link to = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></Link>
                     <div className="card-body">
                         <Link to = "/"> <h5 className="card-title">Getting started with React JS</h5> </Link>
                     </div>
@@ -39,7 +39,7 @@ function CategoryCourses(){
             </div>
             <div className = "col-md-3 mb-4">
                 <div className="card">
-                    <a href = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></a>
+                    <Link to = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></Link>
                     <div className="card-body">
                         <Link to = "/"> <h5 className="card-title">Getting started with React JS</h5> </Link>
                     </div>
@@ -47,7 +47,7 @@ function CategoryCourses(){
             </div>
             <div className = "col-md-3 mb-4">
                 <div className="card">
-                    <a href = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></a>
+                    <Link to = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></Link>
                     <div className="card-body">
                         <Link to = "/"> <h5 className="card-title">Getting started with React JS</h5> </Link>
                     </div>
@@ -55,7 +55,7 @@ function CategoryCourses(){
             </div>
             <div className = "col-md-3 mb-4">
                 <div className="card">
-                    <a href = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></a>
+                    <Link to = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></Link>
                     <div className="card-body">
                         <Link to = "/"> <h5 className="card-title">Getting started with React JS</h5> </Link>
                     </div>
@@ -63,7 +63,7 @@ function CategoryCourses(){
             </div>
             <div className = "col-md-3 mb-4">
                 <div className="card">
-                    <a href = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></a>
+                    <Link to = "#"> <img src="/logo512.png" className="card-img-top img-thumbnail" alt="..."/></Link>
                     <div className="card-body">
                         <Link to = "/"> <h5 className="card-title">Getting started with React JS</h5> </Link>
                     </div>
