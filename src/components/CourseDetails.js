@@ -263,7 +263,7 @@ import axios from 'axios';
 import Swal from 'sweetalert2';
 
 const baseUrl = 'http://127.0.0.1:8000/api';
-const siteUrl = 'http://127.0.0.1:8000/';
+// const siteUrl = 'http://127.0.0.1:8000/';
 
 function CourseDetails(){
     
