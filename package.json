@@ -29,11 +29,7 @@
       "react-app/jest"
     ]
   },
-  "jest": {
-    "transform": [
-      "^.+\\.js$": "babel-jest"
-    ]
-  },
+ 
 
   "browserslist": {
     "production": [
