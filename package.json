@@ -29,9 +29,13 @@
       "react-app/jest"
     ]
   },
-   "transform": {
-  "^.+\\.js$": "babel-jest"
-  },
+  "jest": {
+    "transform": {
+      "^.+\\.js$": "babel-jest"
+    },
+    "transformIgnorePatterns": [
+      "<rootDir>/node_modules/(?!axios)"
+    ]
 
   "browserslist": {
     "production": [
